@@ -4,6 +4,18 @@
 
 ¿Por qué hacemos esto? Porque creemos en el poder de la colaboración entre humanos e inteligencia artificial para llevar la programación al siguiente nivel. Esta hackathon tiene como objetivo que **descubras nuevas formas de desarrollar software apoyándote en IA**, y te sientas parte de algo más grande: una comunidad que innova y rompe barreras. Cada actividad te acercará más a dominar GitHub Copilot y entender **cómo puede potenciar tu flujo de trabajo**. La idea es aprender haciendo, sin miedo a equivocarse y con mucho entusiasmo. *Recuerda:* las hackathons no se tratan solo de competir, sino de **creatividad, aprendizaje y trabajo en equipo**. 
 
+## 📋 Pre-requisitos  
+
+Antes de sumergirte en las actividades, asegúrate de preparar tu entorno de desarrollo con los siguientes requisitos mínimos:  
+
+- **Node.js** y **npm** instalados en tu sistema. Se recomienda utilizar una versión LTS reciente de Node.js (por ejemplo, Node 16.x o superior) para garantizar compatibilidad. Node.js y npm son imprescindibles para ejecutar el backend y las herramientas de frontend del laboratorio.  
+- **Visual Studio Code** actualizado, con la **extensión de GitHub Copilot** instalada y configurada correctamente. Asegúrate de haber iniciado sesión en VS Code con tu cuenta de GitHub que tenga una suscripción activa a Copilot (o acceso de prueba). Si dispones de **Copilot Chat**, actívalo también para aprovechar sus capacidades durante el laboratorio. *(Copilot es compatible con varios IDE, pero VS Code es el recomendado en este hackathon.)*  
+- **Conexión a internet** estable. GitHub Copilot funciona mediante servicios en la nube, por lo que necesitarás Internet para que pueda generar sugerencias de código.  
+- **Repositorio del laboratorio** clonado o descargado en tu máquina local. Es decir, este mismo repositorio con las guías debe estar accesible en tu entorno. La forma recomendada es clonar el repositorio usando **Git**.
+- *(Opcional)* Una herramienta para probar APIs REST, como **Postman**, **Insomnia** o el comando `curl`. Esto puede ser útil para verificar manualmente los endpoints de tu API durante el desarrollo, aunque no es estrictamente obligatorio ya que en la Actividad 3 contarás con una interfaz web para interactuar con el backend. 
+
+Teniendo estos pre-requisitos listos, tendrás todo preparado para abordar las actividades del laboratorio sin contratiempos 😉.  
+
 ## 📚 Actividades del Laboratorio 
 
 El laboratorio se compone de **6 actividades secuenciales** (⬇️ listadas abajo). Te recomendamos realizarlas en orden, ya que cada una construye sobre lo aprendido en la anterior. A continuación te ofrecemos un breve resumen de cada actividad con un enlace a su guía detallada, a modo de índice para que navegues fácilmente por el contenido. ¡Prepárate para codear con una sonrisa! 😃💻
