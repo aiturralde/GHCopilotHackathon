@@ -136,3 +136,7 @@ Esta actividad te mostró cómo pasar de un backend temporal a uno persistente. 
 ¡Tu backend ahora tiene memoria! 🧠
 
 ---
+
+## ➡️ Siguiente desafío
+
+Continúa con la siguiente actividad: **[Actividad 6: Autenticación y Seguridad – Protegiendo la API con JWT](6-Autenticacion.md)**

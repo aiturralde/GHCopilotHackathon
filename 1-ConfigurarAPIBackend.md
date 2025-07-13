@@ -164,3 +164,7 @@ Al finalizar esta actividad deberías tener:
 Esta actividad te mostró cómo Copilot puede ayudarte a arrancar un proyecto desde cero. Aprendiste a guiarlo con comentarios, validar sus sugerencias y construir un backend funcional sin escribir cada línea manualmente.
 
 ¡Vamos por la siguiente funcionalidad! 💡
+
+## ➡️ Siguiente desafío
+
+Continúa con la siguiente actividad: **[Actividad 2: Nueva Característica – Autocompletado de Tareas tras 24 Horas](2-ExtenderBackened.md)**

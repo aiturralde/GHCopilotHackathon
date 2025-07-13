@@ -150,4 +150,10 @@ Esta actividad no se trata solo de escribir código, sino de aprender a colabora
 
 ¡Vamos por la siguiente actividad! 💡
 
+Aquí tienes el contenido actualizado del archivo **3-FrontEnd.md**, incluyendo la sección de navegación al final:
+
 ---
+
+## ➡️ Siguiente desafío
+
+Continúa con la siguiente actividad: **[Actividad 4: Pruebas y Refactorización – Asegurando la Calidad con Copilot](4-PruebasAutomaticas.md)**

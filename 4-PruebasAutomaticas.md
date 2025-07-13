@@ -135,4 +135,10 @@ Esta actividad cierra el ciclo completo de desarrollo asistido por IA: desde la 
 
 ¡Felicidades por completar el laboratorio! 🎉
 
+Aquí tienes el contenido actualizado del archivo **4-PruebasAutomaticas.md**, incluyendo la sección de navegación al final:
+
 ---
+
+## ➡️ Siguiente desafío
+
+Continúa con la siguiente actividad: **[Actividad 5: Persistencia – Guardando tareas con node-persist](5-Persistencia.md)**

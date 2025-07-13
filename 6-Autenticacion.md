@@ -192,3 +192,10 @@ Algunas lecciones clave: utiliza **tokens de corta duración** para minimizar ri
 
 Con la API de tareas autenticada y persistente, y un frontend dinámico, ¡tu proyecto de hackathon ha incorporado todos los elementos esenciales de una aplicación web segura y moderna! Mantén estos aprendizajes presentes en futuros desarrollos. **¡Excelente trabajo asegurando tu aplicación!** 🔒🚀 
 
+Aquí tienes el contenido actualizado del archivo **6-Autenticacion.md**, incluyendo el cierre del laboratorio:
+
+---
+
+## 🎉 ¡Has completado todos los desafíos del laboratorio!
+
+¡Excelente trabajo! 🚀🔐

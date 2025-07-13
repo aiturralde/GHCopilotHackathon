@@ -122,4 +122,10 @@ Esta actividad demuestra que Copilot no solo sirve para escribir código repetit
 
 ¡Vamos por la interfaz! 💡
 
+Aquí tienes el contenido actualizado del archivo **2-ExtenderBackened.md**, incluyendo la sección de navegación al final:
+
 ---
+
+## ➡️ Siguiente desafío
+
+Continúa con la siguiente actividad: **[Actividad 3: Interfaz Frontend – Conectando el Backend con el Usuario](3-FrontEnd.md)**
